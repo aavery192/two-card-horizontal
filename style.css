@@ -26,26 +26,12 @@ body {
 
 h1{
   margin-bottom: 0px;
-  font-family: 'style-script', script;
+  font-family: 'Style Script', cursive;
   font-weight: 600;
-  text-align: center;
-  font-size: 22px;
-  position: relative; top: -100px;
-  color: #27a59c;
-  
-}
-svg{
-  fill:red;
-  transform:scale(0.5);
-  position: relative; top: -35px;
-}
-h4{
-  margin-bottom: 0px;
-  font-family: 'Kumbh Sans', sans-serif;
-  font-weight: 600;
-  text-align: center;
+  text-align: left;
   font-size: 45px;
-  position: relative; top: 40px;
+  position: relative; top: 20px;
+  position: relative; left: 30px;
   color: #27a59c;
   
 }
@@ -54,9 +40,10 @@ h2{
   padding-top: 0px;
   font-family: 'libre-baskerville', serif;
   font-weight: 200;
-  text-align: center;
-  position: relative; 
-  top: 40px;
+  text-align: left;
+  font-size: 23px;
+  position: relative; top: 5px;
+  position: relative; left: 30px;
   color: #027691;
 } 
 
@@ -68,6 +55,21 @@ h3{
   text-align: center;
   position: relative; 
   top: 100px;
+}
+svg{
+  fill:red;
+  transform:scale(0.5);
+  position: relative; top: -35px;
+}
+h4{
+  margin-bottom: 0px;
+  font-family: 'Style Script', cursive;
+  font-weight: 600;
+  text-align: center;
+  font-size: 31px;
+  position: relative; top: -100px;
+  color: #27a59c;
+  
 }
 /* How links are styled on page load and also after a link has been visited */
 a:link, a:visited {
