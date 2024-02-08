@@ -13,17 +13,28 @@ body {
     overflow: hidden;
 }
 /* the main card container */
-
-.card{
+.card1{
   width: 441px;
   height: 254px;
   margin: 80px auto;
   overflow: hidden;
   box-shadow: 2px 5px 15px 0px #17161694;
-  background-color:rgb(255, 255, 255);
+  background-color:#101229;
   border-radius: 30px;
 }
-
+.card2{
+  width: 441px;
+  height: 254px;
+  margin: 80px auto;
+  overflow: hidden;
+  box-shadow: 2px 5px 15px 0px #17161694;
+  background-image: url('assets/logo.svg');
+  background-size: 476px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #101229;
+  border-radius: 30px;
+}
 h1{
   margin-bottom: 0px;
   font-family: 'Style Script', cursive;
@@ -57,7 +68,7 @@ h3{
   color: #27a59c;
 }
 .sv1{
-  fill:red;
+  fill:#27a59c;
   transform:scale(0.5);
   position: relative; top: -35px;
 }
