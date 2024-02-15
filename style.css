@@ -46,6 +46,7 @@ h1{
   position: relative; left: 30px;
   color: #c0d1ff;
 }
+
 h2{
   margin-top: 0px;
   padding-top: 0px;
@@ -92,6 +93,7 @@ h4{
   transform:scale(3.5);
   position: relative; top: 63px;
   position: relative; left: 120px;
+  fill:#b1c0e9;
 }
 /* How links are styled on page load and also after a link has been visited */
 a:link, a:visited {
@@ -101,8 +103,14 @@ a:link, a:visited {
   text-decoration: none;
 }
 /* how a link is styled when you hover over it */
-a:hover {
-  color: rgb(124, 68, 177);
+.email:hover{
+  color: rgb(255, 178, 106);
+}
+.sv2:hover{
+  fill: rgb(255, 178, 106);
+}
+.sv3:hover{
+  fill: rgb(255, 178, 106);
 }
 
 /* specific styling to scale elements down for mobile */
