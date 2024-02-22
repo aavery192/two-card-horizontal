@@ -1,2 +1,3 @@
 ## Documentation for Business Card
 
+This was the first project for a web typogrpahy class at Umass Dartmouth. This project was the first time I every used HTML and CSS. When starting this project I already had a printed business card that I had created a few years ago. I wanted to re-create my logo and brand while keeping certain elements the same. The logo I created was extremely personal to me the logo is a panda but it also is based on how I sign my name with lowercase a and a heart. I tried to keep my orginal color scheme of green and blue. I learned alot about HTML and CSS, I find the creating of websites to be alot of fun and excited to learn more.
